@@ -1,0 +1,5 @@
+ToolSet: 11.0 w64 (local)@E:\Programy\Intelli\bin\mingw
+Ninja: 1.12.1@E:\Programy\Intelli\bin\ninja\win\x64\ninja.exe
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=E:/Programy/Intelli/bin/ninja/win/x64/ninja.exe
