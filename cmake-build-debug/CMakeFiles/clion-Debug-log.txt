@@ -1,4 +1,4 @@
-E:\Programy\Intelli\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/Programy/Intelli/bin/ninja/win/x64/ninja.exe -G Ninja -S E:\Projekty\dining_philosophers -B E:\Projekty\dining_philosophers\cmake-build-debug
+E:\Programy\Intelli\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/Programy/Intelli/bin/ninja/win/x64/ninja.exe -G Ninja -S E:\Projekty\SO2\dining_philosophers -B E:\Projekty\SO2\dining_philosophers\cmake-build-debug
 -- The C compiler identification is GNU 13.1.0
 -- The CXX compiler identification is GNU 13.1.0
 -- Detecting C compiler ABI info
@@ -11,6 +11,6 @@ E:\Programy\Intelli\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DC
 -- Check for working CXX compiler: E:/Programy/Intelli/bin/mingw/bin/g++.exe - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (8.6s)
--- Generating done (0.0s)
--- Build files have been written to: E:/Projekty/dining_philosophers/cmake-build-debug
+-- Configuring done (9.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: E:/Projekty/SO2/dining_philosophers/cmake-build-debug
