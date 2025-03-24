@@ -24,10 +24,17 @@ Sekcja krytyczna występuje, gdy filozofowie próbują jednocześnie zabrać te 
 
 ### Jak uruchomić:
 
+Sugerowanym sposobem uruchomienia programu jest użycie IDE mające zintegrowany kompilator C++, takich jak:
+- Visual Studio
+- CLion
+- Code::Blocks
+
+Jednakże, projekt ten można również ręcznie skompilować. Należy się jednak upewnić, że środowisko dla kompilatora jest poprawnie skonfigurowane.
+
 1. Klonowanie repozytorium
    ```bash
    git clone https://github.com/Vilczyca/Dining_Philosophers_Problem.git
-   cd dining-philosophers
+   cd Dining_Philosophers_Problem
    ```
 2. Kompilacja projektu
    ```bash
